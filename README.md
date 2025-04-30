@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/linkin-banner.jpg" alt="Banner" width="100%">
-</p>
+<img src="linkin-banner.jpg" alt="Banner" width="100%" />
+
 
 ---
 
