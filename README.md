@@ -2,13 +2,12 @@
   <img src="linkin-banner.jpg" alt="Banner" width="100%" />
 </p>
 
-
 ---
 
 <h2 align="center">👋 Hi, I'm Mudassir</h2>
 
 <p align="center">
-  🤖 AI-Powered Front-End Developer | Expert in Building High-Converting Landing Pages
+  🤖 AI-Powered Front-End Developer | Expert in Building High-Converting Landing Pages  
   <br>
   🚀 Turning ideas into modern, interactive web experiences.
 </p>
@@ -17,9 +16,10 @@
 
 ### 🧠 Skills & Tools
 
-- 💻 **Frontend**: HTML | CSS | JavaScript | Bootstrap 
-- 🤖 **AI**: Prompt Engineering | ChatGPT | Midjourney | AI Copywriting
-- 🛠️ **Other Tools**: Git | GitHub | VS Code
+- 💻 **Frontend**: HTML | CSS | JavaScript | Bootstrap  
+- 🤖 **AI**: Prompt Engineering | ChatGPT | Midjourney | AI Copywriting  
+- 🛠️ **Other Tools**: Git | GitHub | VS Code  
+
 ---
 
 ### 💻 Technologies & Tools I Work With
@@ -40,7 +40,6 @@
 
 ### ❤️ Fun Facts
 
-- 🌟 I love turning ideas into designs and then into websites.
-- 🤔 I believe AI + Web = Future of everything!
+- 🌟 I love turning ideas into designs and then into websites.  
+- 🤔 I believe AI + Web = Future of everything!  
 - 🧩 Always learning something new, one line of code at a time.
-
