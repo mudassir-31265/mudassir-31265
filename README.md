@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="linkin-banner.png" alt="Banner" width="100%" />
-</p>
-
+<img src="assets/linkin-banner.png" alt="Banner" width="100%" />
 
 ---
 
