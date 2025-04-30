@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Green%20Simple%20Manager%20LinkedIn%20Banner.png" alt="Banner" />
+  <img src="assets/linkin-banner.jpg" alt="Banner" width="100%">
 </p>
 
 ---
@@ -7,10 +7,8 @@
 <h2 align="center">👋 Hi, I'm Mudassir</h2>
 
 <p align="center">
-  🌐 Front-End Developer & UI/UX Designer  
+  🤖 AI-Powered Front-End Developer | Expert in Building High-Converting Landing Pages
   <br>
-  🤖 AI Enthusiast | Prompt Engineer | Creative Thinker  
-  <br><br>
   🚀 Turning ideas into modern, interactive web experiences.
 </p>
 
