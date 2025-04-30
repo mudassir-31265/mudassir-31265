@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkin%20banner.jpg" alt="Banner" width="100%" />
+  <img src="linkin-banner.jpg" alt="Banner" width="100%" />
 </p>
 
 
